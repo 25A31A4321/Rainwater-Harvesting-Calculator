@@ -9,3 +9,8 @@ The Rainwater Harvesting Calculator is beneficial for homeowners, farmers, schoo
 The project can be implemented using programming languages such as C++ with a simple user-friendly interface. The calculator performs fast and accurate computations, making it easy for users to obtain results instantly. Additional features such as monthly rainfall analysis, storage tank suggestions, and graphical representation of data can also be added to improve functionality.
 
 In conclusion, the Rainwater Harvesting Calculator is an educational and practical project that spreads awareness about water conservation. It demonstrates how technology can be used to solve real-world environmental problems and encourages people to adopt sustainable water management practices.
+Team Members:-M.Tanishka
+              P.Spurthi
+              G.Aditya
+              parvezz
+              shaik jakeer
